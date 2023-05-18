@@ -1,0 +1,1 @@
+conda activate pymarlx or mgco3
